@@ -1,0 +1,32 @@
+﻿  glad.c
+  main.cpp
+e:\研一下\108062468_hw3\108062468_hw3\openglframework-vs2017\openglframework-vs2017\main.cpp(299): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+e:\研一下\108062468_hw3\108062468_hw3\openglframework-vs2017\openglframework-vs2017\main.cpp(409): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+e:\研一下\108062468_hw3\108062468_hw3\openglframework-vs2017\openglframework-vs2017\main.cpp(472): warning C4244: “-=”: 从“double”转换到“float”，可能丢失数据
+e:\研一下\108062468_hw3\108062468_hw3\openglframework-vs2017\openglframework-vs2017\main.cpp(477): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+e:\研一下\108062468_hw3\108062468_hw3\openglframework-vs2017\openglframework-vs2017\main.cpp(482): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+e:\研一下\108062468_hw3\108062468_hw3\openglframework-vs2017\openglframework-vs2017\main.cpp(487): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+e:\研一下\108062468_hw3\108062468_hw3\openglframework-vs2017\openglframework-vs2017\main.cpp(490): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+e:\研一下\108062468_hw3\108062468_hw3\openglframework-vs2017\openglframework-vs2017\main.cpp(493): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+e:\研一下\108062468_hw3\108062468_hw3\openglframework-vs2017\openglframework-vs2017\main.cpp(518): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+e:\研一下\108062468_hw3\108062468_hw3\openglframework-vs2017\openglframework-vs2017\main.cpp(519): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+e:\研一下\108062468_hw3\108062468_hw3\openglframework-vs2017\openglframework-vs2017\main.cpp(525): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+e:\研一下\108062468_hw3\108062468_hw3\openglframework-vs2017\openglframework-vs2017\main.cpp(526): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+e:\研一下\108062468_hw3\108062468_hw3\openglframework-vs2017\openglframework-vs2017\main.cpp(531): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+e:\研一下\108062468_hw3\108062468_hw3\openglframework-vs2017\openglframework-vs2017\main.cpp(532): warning C4244: “-=”: 从“double”转换到“float”，可能丢失数据
+e:\研一下\108062468_hw3\108062468_hw3\openglframework-vs2017\openglframework-vs2017\main.cpp(537): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+e:\研一下\108062468_hw3\108062468_hw3\openglframework-vs2017\openglframework-vs2017\main.cpp(538): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+e:\研一下\108062468_hw3\108062468_hw3\openglframework-vs2017\openglframework-vs2017\main.cpp(543): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+e:\研一下\108062468_hw3\108062468_hw3\openglframework-vs2017\openglframework-vs2017\main.cpp(544): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+e:\研一下\108062468_hw3\108062468_hw3\openglframework-vs2017\openglframework-vs2017\main.cpp(547): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+e:\研一下\108062468_hw3\108062468_hw3\openglframework-vs2017\openglframework-vs2017\main.cpp(548): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+e:\研一下\108062468_hw3\108062468_hw3\openglframework-vs2017\openglframework-vs2017\main.cpp(551): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+e:\研一下\108062468_hw3\108062468_hw3\openglframework-vs2017\openglframework-vs2017\main.cpp(552): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+e:\研一下\108062468_hw3\108062468_hw3\openglframework-vs2017\openglframework-vs2017\main.cpp(832): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+e:\研一下\108062468_hw3\108062468_hw3\openglframework-vs2017\openglframework-vs2017\main.cpp(898): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“unsigned __int64”
+  e:\研一下\108062468_hw3\108062468_hw3\openglframework-vs2017\openglframework-vs2017\main.cpp(898): note: 请考虑在格式字符串中使用“%zd”
+e:\研一下\108062468_hw3\108062468_hw3\openglframework-vs2017\openglframework-vs2017\main.cpp(898): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“unsigned __int64”
+  e:\研一下\108062468_hw3\108062468_hw3\openglframework-vs2017\openglframework-vs2017\main.cpp(898): note: 请考虑在格式字符串中使用“%zd”
+e:\研一下\108062468_hw3\108062468_hw3\openglframework-vs2017\openglframework-vs2017\main.cpp(948): warning C4305: “=”: 从“double”到“GLfloat”截断
+e:\研一下\108062468_hw3\108062468_hw3\openglframework-vs2017\openglframework-vs2017\main.cpp(993): warning C4305: “参数”: 从“double”到“GLfloat”截断
+  OpenGLFramework-VS2017.vcxproj -> E:\研一下\108062468_HW3\108062468_HW3\OpenGLFramework-VS2017\x64\Debug\OpenGLFramework-VS2017.exe
